@@ -141,6 +141,7 @@ a {
     /* background: transparent; */
     /* color: var(--color-black); */
     color: white;
+    background: var(--color-black);
     border: 2px solid var(--color-black);
     padding: 10px 22px;
 }
